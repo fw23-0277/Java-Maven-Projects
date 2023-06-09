@@ -1,4 +1,4 @@
-//package com.study.JPQLExample_1;
+//package com.study.JPQL_Assignment_1;
 //
 //import junit.framework.Test;
 //import junit.framework.TestCase;
